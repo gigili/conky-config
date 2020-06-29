@@ -3,6 +3,8 @@ My personal config file for conky
 
 [Conky repo](https://github.com/brndnmtthws/conky)
 
+![Example image of running this config](https://raw.githubusercontent.com/gigili/conky-config/master/conky.png "Example image of running this config")
+
 # Font
 
 [FontAwesome](https://fontawesome.com/)
